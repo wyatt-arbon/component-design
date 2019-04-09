@@ -11,10 +11,10 @@ h2{ color: Black;
 }
 
 body{
-/* kawsar to do font family */
   margin: 10%;
   margin-top: 5%;
   font-size: 100%;
+  font-family: Cambria, Arial, Helvetica, sans-serif;
   text-align: left;
   background-color: rgb(247 247 247);
 }
@@ -24,6 +24,13 @@ p{
   font-size: 0.875em;
   padding: .5%;
   font-family: Calibri, Arial, Helvetica, sans-serif;
-  font-size: 1.2em;
+  font-size: 1.1em;
+}
+
+/* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
+REFER TO https://www.w3schools.com/css/css_link.asp FOR LINKS*/
+ul{
+}
+/*links here */{
 }
 
