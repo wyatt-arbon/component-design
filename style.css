@@ -1,18 +1,28 @@
 /* all values should be in percentage and text in em for scability */
 
-h1{ /* size, 
-  alignment,
-  font style */
+h1{ color: Black;
+  font-family: Cambria, Arial, Helvetica, sans-serif;
+  font-size: 2.5em;
+}
+
+h1{ color: Black;
+  font-family: Cambria, Arial, Helvetica, sans-serif;
+  font-size: 1.875em;
 }
 
 body{
 /* font family,
 color, alignment,
   padding/margin */
-background-color: rgb(247 247 247);
+  margin-left: 10%;
+  font-size: 100%;
+  background-color: rgb(247 247 247);
 }
 
 p{
 /* put line spacing and font size */
+  font-size: 0.875em;
+  padding: .5%;
+  font-family: Calibri, Arial, Helvetica, sans-serif;
 }
 
