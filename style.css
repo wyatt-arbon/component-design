@@ -5,17 +5,16 @@ h1{ color: Black;
   font-size: 2.5em;
 }
 
-h1{ color: Black;
+h2{ color: Black;
   font-family: Cambria, Arial, Helvetica, sans-serif;
   font-size: 1.875em;
 }
 
 body{
-/* font family,
-color, alignment,
-  padding/margin */
+/* kawsar to do font family */
   margin-left: 10%;
   font-size: 100%;
+  text-align: left;
   background-color: rgb(247 247 247);
 }
 
