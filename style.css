@@ -1,9 +1,18 @@
-h1{
+/* all values should be in percentage and text in em for scability */
+
+h1{ /* size, 
+  alignment,
+  font style */
 }
 
 body{
-/* font size and style
-color, alignment*/
+/* font family,
+color, alignment,
+  padding/margin */
 background-color: rgb(247 247 247);
+}
+
+p{
+/* put line spacing and font size */
 }
 
