@@ -41,6 +41,11 @@ a:hover{
    text-decordation: underline;
 }
 
+a:active{
+  font-weight: bold;
+  color: darkred;
+}
+
 
 /* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
 REFER TO https://www.w3schools.com/css/css_link.asp FOR LINKS
