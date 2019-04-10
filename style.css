@@ -27,39 +27,23 @@ p{
   font-family: Calibri, Arial, Helvetica, sans-serif;
   font-size: 1.1em;
 }
-li{
-    
-    color: white;
-    text-decoration: none;
-    padding: 5% 20%;
-    font-family: Cambria, Arial, Helvetica, sans-serif ;
-    font-size:1.1em;
-    border : 1em solid white;
-}
 
-li:hover{ 
-    border:1em solid white;
-}
-
-a {
-    text-decoration: none;
+a{
+   text-decoration: none;
+   font-family: Cambira,Arial,Helvetica,sans-serif;
+   font-size: 1.1em;
 }
 
 a:hover{
-    color:dodgerblue;
-    background-color: darkslategray;
-    text-decoration: none;
-    padding: 0.55;
-    font-family: Cambira,Arial,Helvetica,sans-serif;
-    font-size: 1.1em;
+   color:red;
+   font-family: Cambira,Arial,Helvetica,sans-serif;
+   font-size: 1.1em;
 }
 
 
 /* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
 REFER TO https://www.w3schools.com/css/css_link.asp FOR LINKS
 COPY FONT FAMILY AND FONT SIZE FROM P FOR BOTH ELEMENTS*/
-ul{
-}
 /*links here */{
 }
 
