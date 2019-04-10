@@ -30,14 +30,15 @@ p{
 
 a{
    text-decoration: none;
-   font-family: Cambira,Arial,Helvetica,sans-serif;
+   font-family: Cambira, Arial, Helvetica, sans-serif;
    font-size: 1.1em;
 }
 
 a:hover{
    color:red;
-   font-family: Cambira,Arial,Helvetica,sans-serif;
+   font-family: Cambira, Arial, Helvetica, sans-serif;
    font-size: 1.1em;
+   text-decordation: underline;
 }
 
 
