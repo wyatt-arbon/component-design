@@ -27,6 +27,21 @@ p{
   font-family: Calibri, Arial, Helvetica, sans-serif;
   font-size: 1.1em;
 }
+li{
+    
+    color: white;
+    text-decoration: none;
+    padding: 5% 20%;
+    font-family: Cambria, Arial, Helvetica, sans-serif ;
+    font-size:15em;
+    border : 1em solid white;
+}
+
+li:hover{ 
+    border:1px solid white;
+}
+
+
 
 /* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
 REFER TO https://www.w3schools.com/css/css_link.asp FOR LINKS
