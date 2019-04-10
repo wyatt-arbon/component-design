@@ -41,6 +41,18 @@ li:hover{
     border:1em solid white;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    color:dodgerblue;
+    background-color: darkslategray;
+    text-decoration: none;
+    padding: 0.55;
+    font-family: Cambira,Arial,Helvetica,sans-serif;
+    font-size: 1.1m;
+}
 
 
 /* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
