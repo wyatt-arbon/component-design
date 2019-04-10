@@ -1,12 +1,12 @@
 /* all values should be in percentage and text in em for scability */
 
-h1{ 
+h1{
   color: Black;
   font-family: Cambria, Arial, Helvetica, sans-serif;
   font-size: 2em;
 }
 
-h2{ 
+h2{
   color: Black;
   font-family: Cambria, Arial, Helvetica, sans-serif;
   font-size: 1.3em;
@@ -15,19 +15,18 @@ h2{
 body{
   margin: 10%;
   margin-top: 5%;
-  font-size: 100%;
   font-family: Cambria, Arial, Helvetica, sans-serif;
   text-align: left;
   background-color: rgb(247 247 247);
 }
 
 p{
-/* put line spacing and font size */
   padding: .5%;
   font-family: Calibri, Arial, Helvetica, sans-serif;
   font-size: 1.1em;
 }
 
+/* link styling */
 a{
    text-decoration: none;
    font-family: Calibri, Arial, Helvetica, sans-serif;
@@ -36,21 +35,11 @@ a{
 
 a:hover{
    color:red;
-   font-family: Calibri, Arial, Helvetica, sans-serif;
-   font-size: 1.1em;
-   text-decordation: underline;
+   text-decoration: underline;
 }
 
 a:active{
-  font-weight: bold;
   color: darkred;
+  text-decoration: underline;
 }
-
-
-/* KAWSAR STYLE UNORDERED LIST ELEMENTS AND LINK/HOVER
-REFER TO https://www.w3schools.com/css/css_link.asp FOR LINKS
-COPY FONT FAMILY AND FONT SIZE FROM P FOR BOTH ELEMENTS*/
-/*links here */{
-}
-
-
+/* link styling end */
