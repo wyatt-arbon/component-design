@@ -6,7 +6,6 @@
   box-shadow:0 4px 8px 1px silver;
   transition: 0.2s;
   color: black;
-  text-align: justify;
 }
 .card:hover{
     box-shadow:0 8px 20px 0 silver;
