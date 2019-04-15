@@ -1,0 +1,89 @@
+h1{
+
+  color: Black;
+
+  font-family: Cambria, Arial, Helvetica, sans-serif;
+
+  font-size: 2em;
+
+}
+
+
+
+h2{
+
+  color: Black;
+
+  font-family: Cambria, Arial, Helvetica, sans-serif;
+
+  font-size: 1.3em;
+
+}
+
+
+
+body{
+
+  margin: 10%;
+
+  margin-top: 5%;
+
+  font-family: Cambria, Arial, Helvetica, sans-serif;
+
+  text-align: left;
+
+  background-color: rgb(247 247 247);
+  box-shadow: 0 4% 8% 0 rgba(0,0,0,0.6);
+    transition: 0.4s;
+    width:30%;
+    background: #fff;
+    float: left;
+    
+
+}
+
+
+
+p{
+
+  padding: .5%;
+
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+
+  font-size: 1.1em;
+
+}
+
+
+
+/* link styling */
+
+a{
+
+   text-decoration: none;
+
+   font-family: Calibri, Arial, Helvetica, sans-serif;
+
+   font-size: 1.1em;
+
+}
+
+
+
+a:hover{
+
+   color:red;
+
+   text-decoration: underline;
+
+}
+
+
+
+a:active{
+
+  color: darkred;
+
+  text-decoration: underline;
+
+}
