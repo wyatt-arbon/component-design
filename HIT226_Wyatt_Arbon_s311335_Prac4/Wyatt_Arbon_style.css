@@ -14,7 +14,7 @@
 /* Add some padding inside the card container */
 .container {
   padding: 2% 5%;
-  background-color: rgb(0,255,255,.7);
+  background-color: rgb(128,128,128,.2);
 }
 
 .h_card{
