@@ -1,0 +1,46 @@
+/* general card styling */
+.card{
+  width: 30%;
+  background-color: rgb(247 247 247);
+  border-radius: 5px;
+  box-shadow:0 4px 8px 1px silver;
+  transition: 0.2s;
+  color: black;
+  text-align: justify;
+}
+.card:hover{
+    box-shadow:0 8px 20px 0 silver;
+}
+/* general card styling end */
+
+/* all card link styling */
+.cardlinks:visited{
+  color: inherit;
+}
+.cardlinks:hover{
+  text-decoration: underline;
+}
+.cardlinks:active{
+  color: navy;
+}
+/* all card link styling end */
+
+/* card header styling */
+h3{
+  font-family: Arial, Cambria, Helvetica, sans-serif;
+  font-size: 1.2em;
+}
+.cardheader{
+  background-color: lightgrey;
+  padding: 2% 3%;
+  border-radius: 5px 5px 0 0;
+}
+/* card header end */
+
+/* card body styling */
+.cardbody{
+  font-family: Calibri, Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  padding: 2% 3%;
+}
+/* card body end */
